@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6422119196",
+    "project_id": "foodorder-d1894",
+    "storage_bucket": "foodorder-d1894.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6422119196:android:b5537276ba44300fc230d9",
+        "android_client_info": {
+          "package_name": "blackorbs.dev.foodorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIajcmHZSMKnM1fT2EA0Ov49tRBJ-T7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
